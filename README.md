@@ -22,7 +22,7 @@ Boltsy Runtime addresses this by separating business memory from code execution.
 
 ## 2. Architecture
 
-![Boltsy Runtime Architecture](docs/architecture.png)
+![Boltsy Runtime Architecture](docs/architecture-v2.png)
 
 Boltsy uses a two-tier design:
 
