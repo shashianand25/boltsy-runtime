@@ -10,7 +10,13 @@ Boltsy Runtime is a lightweight orchestration prototype for running coding agent
 | Written report | `docs/boltsy-runtime-report.docx` |
 | Demo video | `docs/boltsy-runtime-demo.mp4` |
 
-These files are listed as the final submission artifacts. Add the generated PPT, Word document, and demo video at those paths before submitting.
+Put the final submission files in the `docs/` folder with these exact names:
+
+- `docs/boltsy-runtime-pitch.pptx`
+- `docs/boltsy-runtime-report.docx`
+- `docs/boltsy-runtime-demo.mp4`
+
+The demo video replaces separate demo screenshots.
 
 ## 1. Problem
 
@@ -78,23 +84,7 @@ The orchestrator converts these into a small, precise prompt rather than dumping
 
 See `context/AGENTS.md`, `context/routing_policy.md`, `context/memory_policy.md`, and `context/workflow_patterns.md`.
 
-## 6. Demo Screenshots
-
-Place demo screenshots in:
-
-```text
-docs/screenshots/
-```
-
-Suggested screenshots:
-
-- Orchestrator receiving a feature task.
-- Model routing decision.
-- Agent execution state.
-- CI or validation result.
-- Telegram or owner notification.
-
-## 7. Future Roadmap
+## 6. Future Roadmap
 
 - Add durable workflow state with resumable execution graphs.
 - Add GitHub issue and pull request event ingestion.
@@ -114,4 +104,3 @@ tsx demo.ts
 ```
 
 The demo is intentionally small. It shows the orchestration contract: classify a task, choose a model profile, aggregate context, and produce a structured execution plan.
-
