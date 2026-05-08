@@ -6,15 +6,15 @@ Boltsy Runtime is a lightweight orchestration prototype for running coding agent
 
 | Artifact | Link |
 | --- | --- |
-| Pitch deck | `docs/boltsy-runtime-pitch.pptx` |
-| Written report | `docs/boltsy-runtime-report.docx` |
-| Demo video | `docs/boltsy-runtime-demo.mp4` |
+| Pitch deck | `docs/Ramaiah_Kapidhwaja.pptx` |
+| Written report | `docs/Ramaiah_Kapidhwaja.docx` |
+| Demo video | `docs/Ramaiah_Kapidhwaja.mp4` |
 
 Put the final submission files in the `docs/` folder with these exact names:
 
-- `docs/boltsy-runtime-pitch.pptx`
-- `docs/boltsy-runtime-report.docx`
-- `docs/boltsy-runtime-demo.mp4`
+- `docs/Ramaiah_Kapidhwaja.pptx`
+- `docs/Ramaiah_Kapidhwaja.docx`
+- `docs/Ramaiah_Kapidhwaja.mp4`
 
 The demo video replaces separate demo screenshots.
 
