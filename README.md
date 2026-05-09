@@ -11,6 +11,7 @@ Boltsy Runtime is a lightweight orchestration prototype for running coding agent
 | Demo video | [Ramaiah-Kapidhwaja-demo.mp4](docs/Ramaiah-Kapidhwaja-demo.mp4) |
 
 ## Demo Video
+https://github.com/user-attachments/assets/c00813b2-9488-4402-86c7-660c341893a2
 
 [Watch or download the demo video](docs/Ramaiah-Kapidhwaja-demo.mp4)
 
